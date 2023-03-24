@@ -1,5 +1,17 @@
 # blockchain_optimization_frontend
 
+## Project create
+```
+vue create blockchain_optimization_frontend
+```
+
+## Add artifacts
+```
+npm install element-plus --save
+npm i vue-router@next
+npm install axios
+```
+
 ## Project setup
 ```
 npm install
