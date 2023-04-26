@@ -10,6 +10,8 @@ vue create blockchain_optimization_frontend
 npm install element-plus --save
 npm i vue-router@next
 npm install axios
+npm install echarts --save
+npm install echarts@4.9.0
 ```
 
 ## Project setup
